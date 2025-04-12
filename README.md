@@ -37,6 +37,8 @@ pip install -r requirement.txt
 需要从网盘下载划分好的数据集，数据集文件夹放在data目录下面，网盘链接：
 https://pan.baidu.com/s/1061-tOXs9PRt6LnqylU4ng 提取码: k9vr
 
+如果提示无法找到数据集，则把datasets/cfg/Mixture.yaml（steel.yaml和NEU-DET.yaml同理）里的相对路径改为绝对路径。
+
 ```bash
 python train0.py
 ```
