@@ -35,7 +35,7 @@ pip install -r requirement.txt
 
 ### 训练模型
 需要从网盘下载划分好的数据集，数据集文件夹放在data目录下面，网盘链接：
-链接: https://pan.baidu.com/s/1061-tOXs9PRt6LnqylU4ng 提取码: k9vr
+https://pan.baidu.com/s/1061-tOXs9PRt6LnqylU4ng 提取码: k9vr
 
 ```bash
 python train0.py
