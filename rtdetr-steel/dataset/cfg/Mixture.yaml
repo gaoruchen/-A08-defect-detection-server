@@ -1,10 +1,13 @@
 # dataset path
-train:
-  - /home/chuangxin/gaoruchen/detr-main/data/images/train
-  - /home/chuangxin/gaoruchen/rtdetr-steel/data/NEU-DET/images/train
+# 如果不能使用，请改成绝对路径
+
+path: data
+train: 
+- steel/images/train
+- NEU-DET/images/train
 val: 
-  - /home/chuangxin/gaoruchen/detr-main/data/images/val
-  - /home/chuangxin/gaoruchen/rtdetr-steel/data/NEU-DET/images/val
+- steel/images/val
+- NEU-DET/images/val
 
 # number of classes
 nc: 10
