@@ -26,7 +26,7 @@
 进入 conda 环境后执行以下命令安装依赖：
 
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ---
