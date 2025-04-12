@@ -1,8 +1,9 @@
 # dataset path
-# path: /home/hjj/Desktop/github_code/yolov8/
-train: /home/chuangxin/gaoruchen/rtdetr-steel/data/NEU-DET/images/train
-val: /home/chuangxin/gaoruchen/rtdetr-steel/data/NEU-DET/images/val
-# test: data/images/test
+# 如不能使用，改为相对路径
+
+path: data
+train: NEU-DET/images/train
+val: NEU-DET/images/val
 
 # number of classes
 nc: 6
