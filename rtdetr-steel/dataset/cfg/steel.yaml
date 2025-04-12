@@ -1,11 +1,12 @@
 # dataset path
-# path: /home/hjj/Desktop/github_code/yolov8/
-train: /home/chuangxin/gaoruchen/detr-main/data/images/train
-val: /home/chuangxin/gaoruchen/detr-main/data/images/val
-# test: data/images/test
+# 如不能使用，改为绝对路径
+
+path: data
+train: steel/images/train
+val: steel/images/val
 
 # number of classes
-nc: 5
+nc: 4
 
 # class names
 names:
@@ -13,5 +14,4 @@ names:
   1: bd
   2: hh
   3: qt
-  4: empty
   
