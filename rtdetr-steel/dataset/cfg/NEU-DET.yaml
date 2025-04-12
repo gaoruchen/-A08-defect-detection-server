@@ -1,0 +1,17 @@
+# dataset path
+# path: /home/hjj/Desktop/github_code/yolov8/
+train: /home/chuangxin/gaoruchen/rtdetr-steel/data/NEU-DET/images/train
+val: /home/chuangxin/gaoruchen/rtdetr-steel/data/NEU-DET/images/val
+# test: data/images/test
+
+# number of classes
+nc: 6
+
+# class names
+names:
+  0: crazing  # 裂痕
+  1: inclusion  # 杂物
+  2: patches  # 斑块
+  3: pitted surface  # 点蚀表面
+  4: rolled-in scale  # 轧入氧化皮
+  5: scratches  # 划痕

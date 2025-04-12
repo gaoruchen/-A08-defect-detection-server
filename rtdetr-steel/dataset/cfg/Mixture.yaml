@@ -1,0 +1,23 @@
+# dataset path
+train:
+  - /home/chuangxin/gaoruchen/detr-main/data/images/train
+  - /home/chuangxin/gaoruchen/rtdetr-steel/data/NEU-DET/images/train
+val: 
+  - /home/chuangxin/gaoruchen/detr-main/data/images/val
+  - /home/chuangxin/gaoruchen/rtdetr-steel/data/NEU-DET/images/val
+
+# number of classes
+nc: 10
+
+# class names
+names:
+  0: jzw  # 夹杂物
+  1: bd  # 补丁
+  2: hh  # 划痕
+  3: qt  # 其他
+  4: crazing  # 裂痕
+  5: inclusion  # 杂物
+  6: patches  # 斑块
+  7: pitted surface  # 点蚀表面
+  8: rolled-in scale  # 轧入氧化皮
+  9: scratches  # 划痕

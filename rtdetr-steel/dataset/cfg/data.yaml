@@ -1,0 +1,11 @@
+# dataset path
+# path: /home/hjj/Desktop/github_code/yolov8/
+train: example_dataset/images/train
+val: example_dataset/images/val
+test: example_dataset/images/test
+
+# number of classes
+nc: 1
+
+# class names
+names: ['ship']

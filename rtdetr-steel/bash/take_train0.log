@@ -1,0 +1,13 @@
+nohup: ignoring input
+[2025-01-14 13:52:42] [INFO] 启动训练任务: 配置=rtdetr-msga, 备注=memo, 使用GPU=0
+[2025-01-14 13:52:42] [INFO] 日志文件: logs/FLIR-rtdetr-msga-memo-gpu0.log
+[2025-01-14 13:52:42] [INFO] 训练任务已启动，PID: 8240
+[2025-01-14 13:52:42] [INFO] 本轮 GPU 检查结束，休眠 300 秒。
+[2025-01-14 13:57:42] [INFO] 启动训练任务: 配置=rtdetr-AIFIRepBN, 备注=memo, 使用GPU=0
+[2025-01-14 13:57:42] [INFO] 日志文件: logs/FLIR-rtdetr-AIFIRepBN-memo-gpu0.log
+[2025-01-14 13:57:42] [INFO] 训练任务已启动，PID: 29842
+[2025-01-14 13:57:42] [INFO] 本轮 GPU 检查结束，休眠 300 秒。
+[2025-01-14 14:02:42] [INFO] 启动训练任务: 配置=rtdetr-AdditiveTokenMixer, 备注=memo, 使用GPU=0
+[2025-01-14 14:02:42] [INFO] 日志文件: logs/FLIR-rtdetr-AdditiveTokenMixer-memo-gpu0.log
+[2025-01-14 14:02:42] [INFO] 训练任务已启动，PID: 22872
+[2025-01-14 14:02:42] [INFO] 配置列表已全部运行完毕，脚本结束。

@@ -1,0 +1,15 @@
+nohup: ignoring input
+[2025-02-09 00:18:59] [INFO] 启动训练任务: 配置=rtdetr-AIFI_Flash_numhead16, 备注=memo, 使用GPU=2
+[2025-02-09 00:18:59] [INFO] 日志文件: logs/FLIR-rtdetr-AIFI_Flash_numhead16-memo-gpu2.log
+[2025-02-09 00:18:59] [INFO] 训练任务已启动，PID: 21814
+[2025-02-09 00:18:59] [INFO] 启动训练任务: 配置=rtdetr-AIFI_Flash_numhead32, 备注=memo, 使用GPU=3
+[2025-02-09 00:18:59] [INFO] 日志文件: logs/FLIR-rtdetr-AIFI_Flash_numhead32-memo-gpu3.log
+[2025-02-09 00:18:59] [INFO] 训练任务已启动，PID: 21824
+[2025-02-09 00:18:59] [INFO] 本轮 GPU 检查结束，休眠 300 秒。
+[2025-02-09 00:23:59] [INFO] 启动训练任务: 配置=rtdetr-AIFI_Flash_cm2048, 备注=memo, 使用GPU=2
+[2025-02-09 00:23:59] [INFO] 日志文件: logs/FLIR-rtdetr-AIFI_Flash_cm2048-memo-gpu2.log
+[2025-02-09 00:23:59] [INFO] 训练任务已启动，PID: 25540
+[2025-02-09 00:23:59] [INFO] 启动训练任务: 配置=rtdetr-AIFI_Flash_cm4096, 备注=memo, 使用GPU=3
+[2025-02-09 00:23:59] [INFO] 日志文件: logs/FLIR-rtdetr-AIFI_Flash_cm4096-memo-gpu3.log
+[2025-02-09 00:23:59] [INFO] 训练任务已启动，PID: 25550
+[2025-02-09 00:23:59] [INFO] 配置列表已全部运行完毕，脚本结束。

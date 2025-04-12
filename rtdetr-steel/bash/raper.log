@@ -1,0 +1,5 @@
+nohup: ignoring input
+[2025-01-29 14:10:54] [INFO] 启动训练任务: 配置=rtdetr-r18, 使用GPU=0, 批量大小=8
+/home/lihan/Code/rtdetr/bash/raper.sh: line 32: logs/test-v-gpu0.log: No such file or directory
+[2025-01-29 14:10:54] [INFO] 训练任务已启动，PID: 20346
+[2025-01-29 14:10:54] [INFO] 训练任务已在GPU0上启动，脚本结束。
