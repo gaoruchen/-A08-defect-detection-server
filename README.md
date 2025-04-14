@@ -43,7 +43,7 @@ https://pan.baidu.com/s/1061-tOXs9PRt6LnqylU4ng 提取码: k9vr
 python train0.py
 ```
 
-### 验证模型
+### 验证模型&测试mAP50
 同样需要下载数据集
 
 ```bash
